@@ -131,3 +131,6 @@ dmypy.json
 
 # Ignore .idea folder
 /.idea
+
+# Ignore token file
+token.txt
