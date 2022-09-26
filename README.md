@@ -1,2 +1,2 @@
 # ad_app
-Simple application for ads
+Simple application for ads (testing)
